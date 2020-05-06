@@ -1,5 +1,17 @@
 #logo-acs
 {
   width: 120px;
-  
+
+}
+
+.card
+{
+  margin-bottom: 25px;
+  height: 500px;
+}
+
+.card-body
+{
+  position: absolute;
+  bottom: 0px;
 }
